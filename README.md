@@ -10,5 +10,15 @@ How to install script for Cinnamon Desktop and UBUNTU 26.04
 bash <(curl -sL https://raw.githubusercontent.com/vinberg88/tokyonight-catppuccin-rice/main/installer.sh)
 ```
 
+You will install this from script
+
+Catppuccin GTK
+TokyoNight icons
+blur-ish Cinnamon effects
+glass look
+anime/cyberpunk aesthetics
+
+
+
 Regards,
 Mattias Vinberg

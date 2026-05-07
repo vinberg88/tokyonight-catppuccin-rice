@@ -12,9 +12,7 @@ cd tokyonight-catppuccin-rice
 
 chmod +x installer.sh
 
-./installer.sh
-
-
+sudo bash ./installer.sh
 
 Regards,
 Mattias Vinberg

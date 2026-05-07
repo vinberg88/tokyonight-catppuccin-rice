@@ -26,7 +26,7 @@ anime/cyberpunk aesthetics
 
 <p>
 
-Regards Mattias Vinberg - SwEden - Cinnamon - Ubuntu 26.04 Resolute Raccoon - Linux - WSL - X410 - WINDOWS - 2026
+Regards Mattias Vinberg - SwEden - Cinnamon - Ubuntu 26.04 Resolute Raccoon - WSL - X410 - WINDOWS - 2026
 
 © 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 </p>

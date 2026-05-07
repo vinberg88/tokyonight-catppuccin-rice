@@ -6,13 +6,9 @@ Icon Theme.
 
 How to install script for Cinnamon Desktop and UBUNTU 26.04
 
-git clone https://github.com/vinberg88/tokyonight-catppuccin-rice.git
-
-cd tokyonight-catppuccin-rice
-
-chmod +x installer.sh
-
-sudo bash ./installer.sh
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/vinberg88/tokyonight-catppuccin-rice/main/installer.sh)
+```
 
 Regards,
 Mattias Vinberg

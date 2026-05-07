@@ -13,12 +13,14 @@ bash <(curl -sL https://raw.githubusercontent.com/vinberg88/tokyonight-catppucci
 You will install this from script
 
 Catppuccin GTK
+
 TokyoNight icons
+
 blur-ish Cinnamon effects
+
 glass look
+
 anime/cyberpunk aesthetics
-
-
 
 Regards,
 Mattias Vinberg
